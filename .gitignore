@@ -1,0 +1,5 @@
+network/migrations
+__pycache__
+project4/
+db.sqlite3
+
